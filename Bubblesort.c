@@ -20,3 +20,9 @@ int main()
         printf("%d is not a perfect number", number);
     return 0;
 }
+
+
+
+
+
+This is new edit by sandeep
